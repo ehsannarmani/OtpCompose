@@ -31,16 +31,17 @@ dependencies {
 ```kotlin
 Otp(
     count = 5,
-    error = error,
-    success = success,
-    errorColor = errorColor,
-    successColor = successColor,
+    error = false,
+    success = true,
+    errorColor = Color(0xffffffff),
+    successColor = Color(0xffffffff),
     focusedColor = Color(0xff313131),
     unFocusedColor = Color.Gray,
     onFinish = { otp->
        // do something
     },
     modifier=Modifier.size(60.dp,90.dp),
+    ...
 )  
 ```
 
