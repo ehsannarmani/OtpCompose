@@ -1,5 +1,5 @@
 # Otp Widget For JetpackCompose
-### A Otp Widget to enter passwords, sms codes , ...
+### An Otp Widget to enter passwords, sms codes , ...
 <img src="https://github.com/ehsannarmani/OtpCompose/blob/master/media/gif.gif" width="250">
 <hr/>
 
